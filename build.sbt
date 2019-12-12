@@ -9,3 +9,4 @@ scalaVersion := "2.13.0"
 
 libraryDependencies += guice
 
+// un-managed dependencies automatically get picked from from the "lib" folder in sbt

@@ -1,0 +1,6 @@
+0.0
+org.aion.web3.Counter
+Clinit: (int)
+public static void incrementCounter(int)
+public static void decrementCounter(int)
+public static int getCount()
